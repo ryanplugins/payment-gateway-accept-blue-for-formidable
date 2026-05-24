@@ -1,4 +1,4 @@
-# accept.blue for Formidable Payment Gateway
+# accept.blue for Formidable Forms Payment Gateway
 
 > Accept credit card payments in WordPress using Formidable Forms and the accept.blue payment gateway — with PCI-friendly hosted tokenization, sandbox mode, and a seamless checkout experience.
 
